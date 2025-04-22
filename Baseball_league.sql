@@ -1,3 +1,6 @@
+-- Creating new schema 
+CREATE SCHEMA major_league_baseball;
+
 -- Connect to database (MySQL)
 USE major_league_baseball;
 
