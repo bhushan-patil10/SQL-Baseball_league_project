@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project simulates a real-world data analytics task where I worked as a **Data Analyst Intern** for **Major League Baseball (MLB)**. I gained access to historical player data and was assigned to analyze trends in player statistics, school contributions, salaries, and team affiliations using **advanced SQL techniques**.
+This project simulates a real-world data analytics task for **Major League Baseball (MLB)**. I gained access to historical player data and was assigned to analyze trends in player statistics, school contributions, salaries, and team affiliations using **advanced SQL techniques**.
 
 The analysis was performed using **MySQL** and queries were written and executed in **MySQL Workbench**.
 
@@ -16,7 +16,7 @@ MLB has recently acquired a vast dataset containing decades worth of player stat
 - Teams played for
 - Physical attributes like height and weight
 
-As a data analyst intern, my assignment was to dig into the data and generate valuable insights using SQL.
+As a data analyst, our assignment was to dig into the data and generate valuable insights using SQL.
 
 ---
 
